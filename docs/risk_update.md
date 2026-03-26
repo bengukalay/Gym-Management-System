@@ -10,3 +10,15 @@
 ## Updated Risk Priority
 - Security risks remain highest priority
 - Data integrity risks increased
+
+## Risk 1
+Learning Spring Boot framework during development.
+
+## Risk 2
+Database integration issues between MySQL and Spring Boot.
+
+## Risk 3
+Time management during development.
+
+## Risk 4
+Debugging backend errors and configuration problems.
