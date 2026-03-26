@@ -90,3 +90,8 @@ The project demo will include:
 ## Conclusion
 This project demonstrates both software development and project management skills. It includes a working system along with documentation, risk analysis, testing strategies, and CI/CD integration.
 
+## Group Members
+- Bengü Kalay
+- Esra Sütcü
+- Elif Renkgören
+
