@@ -1,7 +1,7 @@
 # Gym Management System
 ## Project Overview
 The Gym Management System is a web-based application developed to manage gym operations in a more organized and efficient way. The system allows administrators to manage members, trainers, memberships, and payments through a centralized platform.
-This project was developed as part of a software engineering course and includes both technical implementation and project management processes such as sprint planning, risk analysis, and testing.
+This project was developed as part of a software development course and includes both technical implementation and project management processes such as sprint planning, risk analysis, and testing.
 
 ## Features (MVP)
 - Member management (add, update, delete)
