@@ -69,7 +69,7 @@ The project is considered successful if:
 - Unauthorized access is prevented  
 - Reports are accurate  
 - The system runs without major errors
-- 
+
 ## Demo Plan
 The project demo will include:
 1. Introduction of the system  
