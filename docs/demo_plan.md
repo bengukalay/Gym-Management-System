@@ -1,21 +1,8 @@
 # Demo Plan
-## Step 1: Run the System
-- Start Spring Boot application
-- Show running server
-
-## Step 2: Show Features
-- Add member
-- Assign trainer
-- Record payment
-
-## Step 3: Show GitHub Repository
-- Code structure
-- Documentation
-
-## Step 4: Show CI/CD Pipeline
-- GitHub Actions tab
-- Successful build
-
-## Step 5: Show Project Board
-- Tasks
-- Progress tracking
+1. Show GitHub repository
+2. Show project board
+3. Explain system architecture
+4. Run the application
+5. Add a new member
+6. Assign trainer to member
+7. Show database updates
